@@ -14,12 +14,12 @@
         android:layout_marginBottom="16dp"
         android:layout_marginRight="16dp"
         android:clickable="true"
-        app:backgroundTint="@android:color/white"
+
         app:fabSize="normal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:rippleColor="@color/colorWhite"
-        app:srcCompat="@drawable/ic_check_circle" />
+        app:srcCompat="@drawable/ic_done_white_24dp" />
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/my_recycler_view2"
